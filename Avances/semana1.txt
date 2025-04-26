@@ -1,0 +1,6 @@
+ Semana 1: Definición del Proyecto
+Se definió el objetivo del proyecto: crear un foro colaborativo para la comunidad de INAQQUA Chile.
+Se decidió usar WordPress + bbPress como tecnologías principales.
+Se formó el equipo de trabajo (Antonella Cuvertino y Miriam Hammami).
+Se eligió Scrum como metodología de trabajo ágil.
+Se creó el repositorio en GitHub y se configuró el README inicial
