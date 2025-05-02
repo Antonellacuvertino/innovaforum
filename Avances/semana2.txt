@@ -3,6 +3,4 @@ Capacitación personal en:
 WordPress básico (instalación y configuración).
 bbPress para foros en WordPress.
 GitHub Flow (manejo de ramas y commits).
-Instalación de WordPress en local con XAMPP.
-Instalación de plugin bbPress en WordPress.
 Primer prototipo en Figma (pantalla de Inicio y Categorías).
