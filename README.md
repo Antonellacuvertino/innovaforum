@@ -1,4 +1,4 @@
-# Foro Colaborativo INAQQUA Chile
+# Foro Colaborativo INNAQUAFORUM 
 
 **Proyecto Semestral – Asignatura GitHub**
 
