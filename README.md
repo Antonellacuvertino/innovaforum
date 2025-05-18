@@ -1,10 +1,10 @@
-# Foro Colaborativo INNAQUAFORUM 
+# Foro Colaborativo INNOVAFORUM 
 
 **Proyecto Semestral – Asignatura GitHub**
 
 ##  Descripción del Proyecto
 
-Este proyecto consiste en el desarrollo de una plataforma colaborativa tipo foro para la comunidad de INAQQUA Chile, orientada a usuarios del rubro acuícola. La plataforma permite:
+Este proyecto consiste en el desarrollo de una plataforma colaborativa tipo foro para una comunidad innovadora, orientada a usuarios del rubro acuícola. La plataforma permite:
 
 - Publicar consultas técnicas, reportes de emergencia y solicitudes de apoyo.
 - Responder a publicaciones de otros usuarios.
