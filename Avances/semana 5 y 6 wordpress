@@ -1,0 +1,44 @@
+# Avance Semana 5
+
+## Instalación y configuración de entorno local con XAMPP
+
+- Instalé XAMPP para crear un servidor local y probar WordPress con la base de datos `innovaforum`.
+- Configuré Apache y MySQL en XAMPP para levantar el entorno.
+- Instalé WordPress en el directorio `htdocs` y configuré el archivo `wp-config.php` con los datos de la base de datos local.
+- Realicé pruebas iniciales de conexión entre WordPress y MySQL.
+
+## Diagnóstico de error en la base de datos
+
+- Al intentar ver los privilegios y al acceder a la base de datos desde WordPress, apareció el error:
+#1030 - Error 176 "Read page with wrong checksum" desde el manejador de la tabla Aria
+
+- Este error indica corrupción en tablas internas del motor Aria.
+
+## Acciones tomadas
+
+- Intenté reparar las tablas con el comando SQL:
+
+```sql
+REPAIR TABLE mysql.user;
+REPAIR TABLE mysql.db;
+# Avance Semana 6
+
+## Continuación del diagnóstico y solución de errores
+
+- Ejecuté `mysql_upgrade` para actualizar el motor de base de datos y asegurar compatibilidad.
+- Realicé una limpieza y simplificación del SQL para consultar privilegios y evitar errores.
+- Probé la conexión y selección correcta de la base de datos en WordPress sin errores.
+- Validé que el usuario de base de datos tiene todos los permisos necesarios para la base `innovaforum`.
+
+## Resultados
+
+- Base de datos accesible y funcional en entorno local con XAMPP.
+- WordPress se conecta sin problemas y carga correctamente.
+- Código SQL para ver privilegios optimizado y funcionando.
+
+## Próximos pasos
+
+- Crear backups automáticos para evitar pérdida de datos.
+- Documentar todo el proceso en detalle y subirlo a GitHub.
+- Realizar pruebas de carga y seguridad.
+
