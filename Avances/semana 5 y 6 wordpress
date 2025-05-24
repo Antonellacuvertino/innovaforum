@@ -41,4 +41,11 @@ REPAIR TABLE mysql.db;
 - Crear backups automáticos para evitar pérdida de datos.
 - Documentar todo el proceso en detalle y subirlo a GitHub.
 - Realizar pruebas de carga y seguridad.
+## Sitio en funcionamiento
+
+- ✅ Sitio WordPress en entorno local con XAMPP:  
+  [http://localhost/innovaforum](http://localhost/innovaforum)
+
+> Este enlace funciona solo en el computador donde está instalado XAMPP.
+
 
