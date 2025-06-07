@@ -1,0 +1,14 @@
+Semana 5: Desarrollo Individual y Práctica Guiada
+Durante la Semana 5, cada integrante del equipo comenzó a trabajar de manera individual en la elaboración de un borrador funcional del proyecto desde su propio computador.
+El objetivo principal fue profundizar la comprensión del proceso de construcción de la plataforma, aplicando de forma práctica los conocimientos adquiridos en semanas anteriores.
+
+Como parte de esta etapa, se utilizaron plantillas prediseñadas y el constructor visual Elementor dentro de WordPress, lo que permitió explorar distintas configuraciones, estilos y estructuras de contenido.
+Esta práctica sirvió como guía para definir la forma en que se realizarán futuras ediciones y personalizaciones del sitio.
+
+Además, Antonella logró establecer una conexión con la base de datos local, lo que en principio permitiría trabajar en línea desde dos dispositivos de forma colaborativa. Sin embargo, tras varios intentos, 
+esta modalidad no logró funcionar de manera estable, por lo que se optó por centralizar el trabajo en el computador de Antonella. Esta decisión permitió avanzar de forma más fluida, evitando problemas de 
+sincronización y pérdida de tiempo por configuraciones técnicas.
+
+Esta semana estuvo enfocada en la experimentación, prueba y error, con énfasis en entender la lógica de edición en WordPress y la construcción del sitio mediante Elementor.
+La experiencia permitió reforzar habilidades técnicas y tomar decisiones prácticas de cara al desarrollo conjunto en las semanas siguientes.
+
