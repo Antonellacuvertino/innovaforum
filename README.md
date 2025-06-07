@@ -4,13 +4,13 @@
 
 ##  Descripción del Proyecto
 
-Este proyecto consiste en el desarrollo de una plataforma colaborativa tipo foro para una comunidad innovadora, orientada a usuarios del rubro acuícola. La plataforma permite:
+Este proyecto consiste en el desarrollo de una plataforma colaborativa tipo foro (blog) para una comunidad fomentada en la colaboracion e innovacaion, orientada a usuarios de distrintos rubros. La plataforma permite:
 
-- Publicar consultas técnicas, reportes de emergencia y solicitudes de apoyo.
+- Publicar consultas técnicas.
 - Responder a publicaciones de otros usuarios.
-- Compartir buenas prácticas entre centros de cultivo.
+- Administrar tus publicaciones.
 
-La plataforma está siendo desarrollada sobre **WordPress**, utilizando el plugin **bbPress** para implementar la funcionalidad de foros.
+La plataforma está siendo desarrollada sobre en **Visual Estudio**, utilizando **Java** para implementar la funcionalidad de foros.
 
 ---
 
