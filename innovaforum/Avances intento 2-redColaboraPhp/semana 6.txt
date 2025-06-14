@@ -1,0 +1,9 @@
+Durante la Semana 6, el equipo evaluó las dificultades técnicas que surgieron en las semanas anteriores, especialmente en relación con la edición colaborativa y el uso de WordPress como entorno de desarrollo compartido.
+A pesar de los intentos por establecer una conexión conjunta y trabajar en línea desde distintos dispositivos,
+las limitaciones técnicas y problemas de sincronización dificultaron significativamente el flujo de trabajo.
+
+Ante esta situación, se decidió cambiar la estrategia de desarrollo, buscando una modalidad que permitiera mayor eficiencia, control y coordinación entre las integrantes del equipo. 
+Este cambio implicó redefinir herramientas y métodos de trabajo, priorizando soluciones más estables y adaptadas a las necesidades reales del proyecto.
+
+La decisión fue tomada de forma consensuada, considerando la experiencia práctica acumulada y con el objetivo de optimizar el proceso de construcción de la plataforma en las siguientes etapas. 
+Este ajuste metodológico representa un paso importante en la adaptación del equipo a los desafíos técnicos y organizativos propios del desarrollo colaborativo.

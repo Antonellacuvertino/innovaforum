@@ -1,0 +1,2 @@
+Revision de funcionalidades y capacitacionde wordpress, git hub, BBDD y pluggin para prepararnos en el desarrollo 
+Elaboracion del prototipo diseños y graficas

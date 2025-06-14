@@ -1,0 +1,26 @@
+Resumen General – Semana 4
+Durante la Semana 4, el equipo centró sus esfuerzos en consolidar los conocimientos técnicos adquiridos en semanas anteriores y en avanzar significativamente en la definición del prototipo visual de la plataforma.
+Esta etapa fue clave para asegurar una base sólida antes de iniciar el desarrollo funcional del sistema.
+
+Las actividades se enfocaron principalmente en dos líneas de trabajo:
+
+Preparación del entorno de desarrollo:
+Se completaron configuraciones necesarias en herramientas como WordPress, GitHub y editores de código, asegurando que todos los integrantes del equipo contaran con un entorno de trabajo operativo,
+sincronizado y alineado con las buenas prácticas del desarrollo colaborativo. Además, se revisaron aspectos técnicos relacionados con la estructura de bases de datos, 
+uso de plugins específicos.
+
+Diseño y prototipado visual:
+Se avanzó en el diseño de la interfaz mediante herramientas como Figma, priorizando la usabilidad y coherencia visual de la plataforma. 
+Se definieron las principales pantallas, flujos de navegación y se ajustaron elementos gráficos para representar de manera clara y efectiva la experiencia esperada por los usuarios. 
+El enfoque estuvo puesto en las secciones de login y crear una posteo.
+
+Adicionalmente, se trabajó en buscar un mecanismos de colaboración de la pagina web "en línea" que permitan a ambas integrantes del equipo trabajar de manera coordinada y simultánea desde diferentes ubicaciones. 
+Para ello, se utilizaron plataformas como GitHub (para control de versiones), Figma (para diseño compartido). Pero para la pagina web se esta evaluando hacerlo desde 1 solo computador.
+ 
+Esta coordinación fue fundamental para mantener la continuidad del trabajo y asegurar una comunicación efectiva durante el desarrollo.
+
+Este trabajo de planificación visual y técnica permitió al equipo alinear la coordinacion para el avance del proyecyo, detectar posibles brechas anticipadamente y generar una hoja de ruta clara para abordar
+el desarrollo en la semana siguiente. 
+Se logró establecer una visión compartida del producto, facilitando así la organización del trabajo en etapas y la asignación de tareas específicas.
+
+
